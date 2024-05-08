@@ -1,0 +1,27 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(240, 230, 244) ;
+}
+.container{
+   display: block;
+    justify-content: center;
+    background-color: whitesmoke;
+   
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    margin-left: 563px;
+    margin-right: 618px;
+
+   
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+       
+}
+
