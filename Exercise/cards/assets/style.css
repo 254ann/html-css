@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(240, 172, 45);
+    
+}
+h1{
+    font-size: xx-large;
+}
+
+.boxes{
+    display: grid;
+    grid-template-columns: 10rem 10rem 10rem;
+    grid-gap: 1rem;
+
+   
+}
+.box1, .box2, .box3{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 150px;
+    height: 200px;
+    background-color: white;
+    font-size: x-small;
+}
+
+img, h2{
+    padding-left: 30px;
+}
+p{
+    padding-left: 10px;
+}
+.image2{
+    padding: 10px;
+    border: solid rgb(135, 228, 235);
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.box3{
+    margin-right: 100px;
+}
+
+.image3{
+    padding: 10px;
+    border: solid rgb(195, 235, 195);
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 40px;  
+}
+    
+    
+
+
+
